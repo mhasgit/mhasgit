@@ -18,7 +18,7 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhasgit&theme=tokyonight&bg_color=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhasgit&theme=tokyonight&background=00000000)](https://git.io/streak-stats)
 
 <!-- # WakaTime Stats -->
 <!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhasgit) -->
