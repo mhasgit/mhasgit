@@ -12,13 +12,13 @@
 
 ## Statistics
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasgit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasgit&layout=compact&theme=tokyonight)
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasgit&show_icons=true&theme=tokyonight&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasgit&layout=compact&theme=tokyonight&bg_color=00000000)
 
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhasgit&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhasgit&theme=tokyonight&bg_color=00000000)](https://git.io/streak-stats)
 
 <!-- # WakaTime Stats -->
 <!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhasgit) -->
