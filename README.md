@@ -12,8 +12,8 @@
 
 ## Statistics
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasgit&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasgit&layout=compact&theme=merko)
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasgit&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasgit&layout=compact&theme=tokyonight)
 
 ---
 
