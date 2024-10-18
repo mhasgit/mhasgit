@@ -28,12 +28,6 @@
 # GitHub Activity Graph
 [![mhasgit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhasgit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Profile Views Counter
-![Profile views](https://komarev.com/ghpvc/?username=mhasgit)
-
-# GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mhasgit)
-
 # GitHub Repo Card
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhasgit&repo=CSharp)](https://github.com/mhasgit/CSharp)
 
