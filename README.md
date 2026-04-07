@@ -30,7 +30,7 @@
 ## 🌆 My Git City
 
 <p align="center">
-  <a href="https://www.thegitcity.com/mhasgit">
+  <a href="[https://www.thegitcity.com/mhasgit](https://thegitcity.com/mhasgit)">
     <img src="https://img.shields.io/badge/Explore-My%20Git%20City-0A66C2?style=for-the-badge&logo=github" />
   </a>
 </p>
