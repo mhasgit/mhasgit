@@ -20,9 +20,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhasgit&theme=tokyonight&background=00000000)](https://git.io/streak-stats)
 
-<!-- # WakaTime Stats -->
-<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhasgit) -->
+# WakaTime Stats
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhasgit)
 
-<!-- # GitHub Activity Graph -->
-<!-- [![mhasgit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhasgit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+# GitHub Activity Graph
+[![mhasgit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhasgit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
